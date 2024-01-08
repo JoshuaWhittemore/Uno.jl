@@ -1,6 +1,6 @@
 using Test
 
-include("geometric_without_replacement.jl")
+include("../lib/geometric_without_replacement.jl")
 
 
 d = GeometricWithoutReplacement(10, 3)
